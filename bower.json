@@ -1,0 +1,35 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "authors": [
+    "Ruby <mp4bj6ruby@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-mousewheel": "~3.1.12",
+    "bootstrap": "~3.3.5",
+    "animate.css": "~3.3.0",
+    "normalize-css": "^4.1.1",
+    "Font-Awesome": "~4.3.0",
+    "Swiper": "swiper#^3.3.1",
+    "fancybox": "fancyBox#^2.1.5",
+    "malihu-custom-scrollbar-plugin": "^3.1.3",
+    "jquery-focuspoint": "^1.1.1",
+    "bootstrap-select": "^1.10.0",
+    "jquery.marquee": "jQuery.Marquee#^1.3.9",
+    "jquery.scrollTo": "^2.1.2",
+    "scrollmagic": "^2.0.5",
+    "uikit": "^2.26.3"
+  },
+  "devDependencies": {
+    "html5shiv": "~3.7.2"
+  }
+}

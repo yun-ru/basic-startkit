@@ -1,0 +1,9 @@
+div {
+  box-sizing: border-box;
+}
+.icon {
+  display: inline-block;
+}
+.index {
+  color: #f00;
+}
